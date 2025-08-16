@@ -50,7 +50,7 @@
 
 ---
 ## 📖 배운 점 & 느낀 점
-- 프로젝트에 Java 17과 Spring Boot 최신 버전을 적용했으나, Tomcat 9에서는 Jakarta Servlet API (Servlet 5.0)을 지원하지 않아 사이트접속시 에러 발생했습니다.
+- 프로젝트에 Java 17과 Spring Boot 최신 버전을 적용했으나, Tomcat 9에서는 Jakarta Servlet API (Servlet 5.0)을 지원하지 않아 사이트접속시 에러가 발생했습니다.
 - Tomcat 9은 Java 8 이상만 요구하며 Servlet 4.0까지 지원 Servlet 5.0은 **Tomcat 10 이상**에서만 가능하다는 것을 알게 되었습니다.
 - Tomcat 버전을 10으로 업그레이드하고, Java–Tomcat 구성 간 호환성을 확보하여 성공적으로 배포할 수 있었습니다.
 
