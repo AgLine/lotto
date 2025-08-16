@@ -4,7 +4,7 @@
 
 ## 📌 프로젝트 개요
 - **기간**: 2022.06
-- **Backend**: `Java`, `Spring Boot`
+- **Backend**: `Java17`, `Spring Boot 3`
 - **Frontend**: `JSP`, `JSTL`
 - **Build Tool**: `Maven`  
 - **IDE**: `IntelliJ`  
